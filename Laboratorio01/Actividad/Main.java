@@ -29,6 +29,9 @@ public class Main {
         Coordenada c4 = new Coordenada(x4,y4);
 
         Rectangulo rec2 = new Rectangulo(c3,c4);
+
+        Graficador.graficar(rec1, rec2);
+        
         if (Verificador.seSobreponen(rec1,rec2)) {
             System.out.println("Sobreponen");
         }
