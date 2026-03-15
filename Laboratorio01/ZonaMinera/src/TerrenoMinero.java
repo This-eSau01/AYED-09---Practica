@@ -38,7 +38,7 @@ public class TerrenoMinero {
                 if (v > maxValor) { maxValor = v; mejorFila = i; mejorCol = j; }
             }
 
-        // Mostrar resultado
+        
         System.out.println("Region mas valiosa encontrada:");
         System.out.println("Posicion inicial: (" + mejorFila + ", " + mejorCol + ")");
         System.out.println("Tamanio de la region: " + k + " x " + k);
