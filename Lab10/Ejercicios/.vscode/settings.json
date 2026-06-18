@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "Ejercicio2\\lib\\jgrapht-demo-1.5.3.jar",
+        "Ejercicio2\\lib\\jgrapht-ext-1.5.3.jar",
+        "Ejercicio2\\lib\\jgrapht-guava-1.5.3.jar",
+        "Ejercicio2\\lib\\jgrapht-io-1.5.3.jar",
+        "Ejercicio2\\lib\\jgrapht-opt-1.5.3.jar",
+        "Ejercicio2\\lib\\jgrapht-unimi-dsi-1.5.3.jar",
+        "c:\\Users\\Mini John\\OneDrive - Universidad Católica de Santa María\\Documents\\1. ALGORITMOS Y ESTRUCTURA DE DATOS\\2. Practica - 09\\Semana 10 - Lab 10\\LAB10\\Ejercicio2\\lib\\jgrapht-core-1.5.3.jar"
+    ]
+}
